@@ -1,10 +1,11 @@
 ---
 layout: landing
 type: landing
-group: styles
-permalink: /styles/
+group: utilities
+permalink: /utilities/
+url: /utilities/index.html
 
-title: Styles
+title: Utilities
 description: The attributes of the brand
 ---
 
