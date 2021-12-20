@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design Principles
+title: DIO Design Principles
 group: guidelines
 permalink: /guidelines/principles.html
 description: The design system's guiding values
