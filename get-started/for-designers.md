@@ -1,7 +1,7 @@
 ---
 layout: page
 title: For Designers
-group: guidelines
+group: get-started
 permalink: /get-started/for-designers.html
 description: Getting started for designers
 
