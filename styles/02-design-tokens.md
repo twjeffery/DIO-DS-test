@@ -2,8 +2,8 @@
 layout: page
 type: detail
 title: Design tokens
-group: styles
-permalink: /styles/design-tokens.html
+group: shared-services
+permalink: /shared-services/design-tokens.html
 description: Design token information
 
 ---
