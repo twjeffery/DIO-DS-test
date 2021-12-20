@@ -8,4 +8,4 @@ description: Guidelines on button placement
 
 ---
 
-Button display guidelines go here
+Button placement guidelines go here

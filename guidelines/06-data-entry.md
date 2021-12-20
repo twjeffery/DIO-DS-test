@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Data entry
+title: Capitalization
 group: guidelines
-permalink: /guidelines/data-entry.html
-description: High-level form guidelines
+permalink: /guidelines/capitalization.html
+description: Capitalization guidelines
 
 ---
 
-Form guidelines go here
+Capitalization guidelines go here
