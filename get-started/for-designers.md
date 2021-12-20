@@ -2,7 +2,7 @@
 layout: page
 title: For Designers
 group: guidelines
-permalink: /guidelines/for-designers.html
+permalink: /get-started/for-designers.html
 description: Getting started for designers
 
 ---
