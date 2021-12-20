@@ -1,11 +1,11 @@
 ---
 layout: page
 type: detail
-title: Data display
+title: Button placement
 group: guidelines
-permalink: /guidelines/data-display.html
-description: Presenting quick, actionable data
+permalink: /guidelines/button-placement.html
+description: Guidelines on button placement
 
 ---
 
-Data display guidelines go here
+Button display guidelines go here
