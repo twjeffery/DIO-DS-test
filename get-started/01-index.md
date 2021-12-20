@@ -1,10 +1,10 @@
 ---
 layout: landing
 type: landing
-group: guidelines
-permalink: /guidelines/
+group: get-started
+permalink: /get-started/
 
-title: Guidelines
+title: Get started
 description: This is the guidelines overview description. It will elaborate on the guidelines and principles that need to be followed to build applications.
 
 cards:
