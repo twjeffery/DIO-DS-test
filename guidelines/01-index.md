@@ -5,7 +5,7 @@ group: guidelines
 permalink: /guidelines/
 
 title: Guidelines
-description: This is the guidelines overview description. It will elaborate on the guidelines and principles that need to be followed to build applications.
+description: Guidelines are the basic characteristics that make up a component such as colour, spacing, typography, layout, icons, and much more.
 
 cards:
 - title: Design Principles
