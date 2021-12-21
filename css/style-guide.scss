@@ -240,15 +240,16 @@ code[class*="language-"], pre[class*="language-"] {
 }
 
 .c-badge--negative {
-  background-color: $color-app-red;
+  background-color: #EC040B;
 }
 
 .c-badge--positive {
-  background-color: $color-app-green;
+  background-color: #00853F;
 }
 
 .c-badge--caution {
-  background-color: $color-app-blue;
+  background-color: #FEBA35;
+  color: #333333;
 }
 
 
