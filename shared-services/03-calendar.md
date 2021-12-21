@@ -1,7 +1,7 @@
 ---
 layout: page
 type: detail
-title: Access
+title: Calendar
 group: shared-services
 permalink: /shared-services/calendar.html
 description: Calendar shared service
