@@ -21,6 +21,11 @@ variations:
   styleModifier: c-card
   codepenUser: frostyweather
   codepenID: EbgJYG
+- title: Test
+  description: Test description
+  styleModifier: c-card
+  codepenUser: frostyweather
+  codepenID: EbgJYG
 
 usage:
 - title: When to use
