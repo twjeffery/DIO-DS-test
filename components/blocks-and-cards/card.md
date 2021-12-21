@@ -24,8 +24,9 @@ variations:
 - title: Test
   description: Test description
   styleModifier: c-card
-  codepenUser: frostyweather
-  codepenID: EbgJYG
+  includeClassification: patterns
+  includeCategory: 02-blocks
+  includeName: card
 
 usage:
 - title: When to use
