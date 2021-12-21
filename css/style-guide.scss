@@ -7,10 +7,11 @@ $color-gray-lighter: #f5f5f5;
 $color-gray-10: #e5e5e5;
 $color-gray-04: #f5f5f5;
 
-$color-app-red: #d82424;
-$color-app-green: #00af53;
+$color-app-red: #EC040B;
+$color-app-green: #00853F;
 $color-app-ruby: #b10040;
-$color-app-blue: #225896;
+$color-app-blue: #005DAA;
+$color-app-yellow: #FEBA35;
 $color-app-sea-blue: #005f7f;
 $color-app-torquoise: #00aca8;
 $color-app-med-gray: #545459;
@@ -248,7 +249,7 @@ code[class*="language-"], pre[class*="language-"] {
 }
 
 .c-badge--caution {
-  background-color: $color-app-blue;
+  background-color: $color-app-yellow;
 }
 
 
