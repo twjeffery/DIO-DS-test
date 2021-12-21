@@ -57,7 +57,7 @@
 					<use href="{{ "/icons.svg#chevron-right" | prepend: site.baseurl }}"></use>
 				</svg>
 
-			</a><!--end c-primary-nav__link-->
+			</a>
 
 			<ul class="c-primary-nav__sublist js-nav-dropdown {% assign post_index = '0' %}{% for my_page in site.pages %}{% if my_page.group == 'components' %}{% capture post_index %}{{ post_index | plus: '1' }}{% endcapture %}{% endif %}{% endfor %}{% if page.url contains '/components' %} is-active{% endif %}">
 
@@ -169,10 +169,13 @@
 
                         {% endif %}
 						</a>
+
 					</li>
 					{% endif %}
 				{% endif %}
 			{% endfor %}
+
+			
 			</ul>
 
 		</li><!-- end c-nav__list__item -->
