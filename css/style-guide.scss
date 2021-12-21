@@ -237,20 +237,18 @@ code[class*="language-"], pre[class*="language-"] {
   margin-left: 8px;
   padding: 3px 8px 3px 8px;
   vertical-align: middle;
-  font-weight: normal;
 }
 
 .c-badge--negative {
-  background-color: #EC040B;
+  background-color: $color-app-red;
 }
 
 .c-badge--positive {
-  background-color: #00853F;
+  background-color: $color-app-green;
 }
 
 .c-badge--caution {
-  background-color: #FEBA35;
-  color: #333333;
+  background-color: $color-app-blue;
 }
 
 
